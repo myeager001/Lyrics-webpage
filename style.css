@@ -8,3 +8,18 @@
 .container-2{
   background-color: #ccd;
 }
+
+.rright{
+  float: right;
+}
+
+.bottom-button{
+  display: block;
+  margin: 0 auto;
+}
+
+.smt{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
