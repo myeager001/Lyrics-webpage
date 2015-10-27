@@ -1,1 +1,47 @@
-
+.navbar{
+  text-align: center;
+  background-color: rgb(153,	153,	204);
+  width: 100vw;
+  height: 5vw;
+}
+ul{
+  list-style-type: none;
+  display: block;
+}
+.container{
+  width: 90vw;
+  height: 5vw;
+  margin:0 auto;
+}
+.navbar-header{
+  display: block;
+  height: 5vw;
+  width: 5vw;
+  float: left;
+}
+.navbar-form{
+  display: block;
+  width: 300px;
+  float:right;
+}
+.btn-menu {
+    text-decoration: none;
+    color: #f6f7f8;
+    background-color: #99c;
+    border-color: #99c;
+    font-family: Helvetica;
+}
+.input-group{
+  width:200px;
+  margin-top: -20px;
+  float:right;
+}
+.btn-group{
+  width:500px;
+}
+li{
+  width: 500px;
+}
+img.pull-left{
+  margin-top: 4px;
+}
