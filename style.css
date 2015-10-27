@@ -1,3 +1,4 @@
+
 .container-1{
   text-align: center;
   margin: 0 auto;
@@ -22,4 +23,54 @@
   text-align: center;
   display: block;
   margin: 0 auto;
+
+.top-footer {
+  background-color: rgb(153, 153, 204);
+  margin: 0 auto;
+  border: 1px solid rgb (102, 102, 153);
+  padding: 20px;
+  text-align: center;
+  border-bottom: 20px;
+}
+
+.top-footer a:hover {
+
+  color: rgb(255, 255, 204)
+}
+
+.top-footer a {
+  margin: 0 10px;
+  color: white;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.bottom-footer {
+text-align: center;
+padding-top: 15px;
+background-color: rgb(204, 204, 221);
+padding-bottom: 4px;
+}
+
+.bottom-footer p {
+  font-size: 14px;
+}
+.bottom-footer img {
+  margin: 20px 10px 5px 10px;
+}
+.bottom-footer a {
+  margin: auto 15px;
+  font-size: 15px;
+  text-decoration: none;
+}
+.power-by {
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-top: 40px;
+  vertical-align: top;
+}
+
+.copyright {
+  margin-top: 0;
+>>>>>>> footer
 }
