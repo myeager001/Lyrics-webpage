@@ -1,4 +1,7 @@
+body {
 
+  margin: 0;
+}
 .navbar{
   text-align: center;
   background-color: rgb(153,	153,	204);
@@ -75,10 +78,9 @@ img.pull-left{
 .top-footer {
   background-color: rgb(153, 153, 204);
   margin: 0 auto;
-  border: 1px solid rgb (102, 102, 153);
+  border: 4px solid rgb (102, 102, 153);
   padding: 20px;
   text-align: center;
-  border-bottom: 20px;
 }
 
 .top-footer a:hover {
